@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g>
+        <rect x="0" y="0" width="200" height="40" fill="#44a744" rx="6"></rect>
+        <text x="10" y="24" font-family="Verdana" font-size="15" fill="white">Deploy with Fermyon</text>
+    </g>
+</svg>
